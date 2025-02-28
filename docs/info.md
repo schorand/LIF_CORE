@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project implements a mixed precision leaky integarte and fire (LIF) neuron. It either computes one neuron at a time with 24bit membrane value and 8 bit weights or two neurons with 12bit membrane values and 4 bit weights.
 
 ## How to test
 
-Explain how to use your project
+Apply the weight at the input and observe spikes. <- Will be updated later
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+none
